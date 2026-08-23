@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="asset/Line Banner.png"><br>
+  <img src="asset/Test Banner.png"><br>
 </p>
 <!--
 
 
-<p align="botton">
-  <img src="asset/Test Banner.png">
-</p>
-<!--
