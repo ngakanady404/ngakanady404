@@ -4,7 +4,7 @@
 <!--
 
 
-<p align="center">
+<p align="botton">
   <img src="asset/Test Banner.png">
 </p>
 <!--
