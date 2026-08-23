@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="asset/Koreo Banner.png"><br>
+  <img src="asset/Line Banner.png"><br>
 </p>
 <!--
