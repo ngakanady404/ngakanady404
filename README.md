@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="asset/Banner Reborn.png"><br>
+  <img src="asset/Banner Error.png"><br>
 </p>
 <!--
